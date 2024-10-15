@@ -1,7 +1,7 @@
 # BlinkIT Grocery Sales Dashboard
 
-![BlinkIT Grocery Dashboard](![blinkit](https://github.com/user-attachments/assets/cfefbe9d-fcfd-4a81-b7e6-e4c1ec5b5637)
-)
+![blinkit](https://github.com/user-attachments/assets/cfefbe9d-fcfd-4a81-b7e6-e4c1ec5b5637)
+
 
 This project contains a Power BI dashboard that provides insights into BlinkIT's grocery sales performance. It tracks various key metrics like total sales, average sales, item ratings, and more, helping management to understand outlet and item performance across different locations and outlet types.
 
