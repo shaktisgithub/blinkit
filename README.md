@@ -53,7 +53,6 @@ The dataset for this dashboard includes:
 - Year of outlet establishment
 - Grocery sales across different item categories
 
-The dataset can be found in the file [BlinkIT Grocery Data.xlsx](path-to-file).
 
 ## Tools Used
 
